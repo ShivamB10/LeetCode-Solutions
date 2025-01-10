@@ -48,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
