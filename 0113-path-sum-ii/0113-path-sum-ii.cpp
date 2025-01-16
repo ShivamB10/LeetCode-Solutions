@@ -10,11 +10,11 @@
  * };
  */
 class Solution {
-    vector<vector<int>> ans;
-    vector<int> path;
+    // vector<vector<int>> ans;
+    // vector<int> path;
 
 private:
-    vector<vector<int>> validPath(TreeNode* root, int targetSum){
+    vector<vector<int>> validPath(TreeNode* root, vector<vector<int>>&ans,vector<int>&path, int targetSum){
         if(root == nullptr){
             return ans;
         }
@@ -25,8 +25,8 @@ private:
         }
 
         else{
-            validPath(root->left, targetSum - root->val);
-            validPath(root->right, targetSum - root->val);
+            validPath(root->left, ans, path, targetSum - root->val);
+            validPath(root->right, ans, path, targetSum - root->val);
         }
 
         path.pop_back();
@@ -35,11 +35,14 @@ private:
     }
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+        vector<vector<int>> ans;
+        vector<int> path;
+
         if (root == nullptr){
             return {};
         }
 
-        return validPath(root, targetSum);
+        return validPath(root, ans, path, targetSum);
 
     }
 };
