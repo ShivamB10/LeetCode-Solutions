@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0203-remove-linked-list-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Design
@@ -214,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
