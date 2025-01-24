@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
