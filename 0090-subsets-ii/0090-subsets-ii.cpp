@@ -2,8 +2,7 @@ class Solution {
 public:
     void constructSubset(vector<int>&nums,vector<int>&subset,vector<vector<int>>&ans,int index){
         if(index == nums.size()){
-            auto it = find(ans.begin(),ans.end(),subset);
-            if(it == ans.end()){
+            if(ans.empty() || ans.back() != subset){
                 ans.push_back(subset);
             }
             return;
@@ -11,6 +10,10 @@ public:
         
         subset.push_back(nums[index]);
         constructSubset(nums,subset,ans,index+1);
+
+        while(index+1 < nums.size() && nums[index] == nums[index+1]){
+            index += 1;
+        }
         subset.pop_back();
         constructSubset(nums,subset,ans,index+1);
 
