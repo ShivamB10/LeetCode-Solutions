@@ -25,11 +25,11 @@ public:
 
 
         while(!st.empty()){
-            ans.push_back(st.top());
+            ans.insert(ans.begin(),st.top());
             st.pop();
         }
 
-        reverse(ans.begin(), ans.end());
+        
 
         while(!ans.empty() && ans[0] == '0'){
             ans.erase(ans.begin());
