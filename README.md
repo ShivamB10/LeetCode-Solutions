@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
@@ -271,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
