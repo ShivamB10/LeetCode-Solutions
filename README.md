@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
