@@ -24,8 +24,8 @@ public:
         stack<int> list1;
         stack<int> list2;
         stack<int> result;
-        ListNode* ans = new ListNode();
-        ListNode* dummy = ans;
+        ListNode* ans = nullptr;
+        
         int carry = 0;
 
         populateStack(l1,list1);
@@ -46,17 +46,14 @@ public:
             int num = total%10;
             carry = total/10;
 
-            result.push(num);
+            
+            ListNode* res = new ListNode(num);
+            res->next = ans;
+            ans = res;
+
         }
 
-        while(!result.empty()){
-            ans->next = new ListNode(result.top());
-            result.pop();
-            ans = ans->next;
-        }
-
-
-        return dummy->next;
+        return ans;
 
 
 
