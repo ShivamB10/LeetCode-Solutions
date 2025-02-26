@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
