@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Iterator
 |  |
 | ------- |
@@ -385,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
