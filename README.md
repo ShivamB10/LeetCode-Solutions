@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## Monotonic Stack
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## Matrix
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
