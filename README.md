@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0506-relative-ranks](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Tree
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
