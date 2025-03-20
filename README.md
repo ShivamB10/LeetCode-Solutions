@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
