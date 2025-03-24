@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0079-word-search) |
