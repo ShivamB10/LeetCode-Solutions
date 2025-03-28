@@ -25,24 +25,11 @@ public:
         Node * curr = head;
 
         while(curr){
-            Node* node = new Node(curr->val);
-            node -> next = curr -> next;
-            node ->random = curr -> random;
-            map[curr] = node;
+            map[curr] = new Node(curr->val);
             curr=curr->next;
         }
 
-    
-
         Node * copyHead = map[head];
-        // copyNode->next = map[head->next];
-        // copyNode->random = map[head->random];
-        
-        // Node* curr = copyHead->next;
-
-        // for(auto it = map.begin(), it!= map.end; i++){
-        //     map[x] = curr 
-        // }
 
         for (auto it : map) {
         map[it.first]->next = it.first->next ? map[it.first->next] : nullptr;
