@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Sliding Window
 |  |
 | ------- |
