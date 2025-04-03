@@ -44,10 +44,8 @@ public:
             head = tail = nullptr;
         }
         else{
-            ListNode* temp = head;
             head = head->next;
             tail->next = head;
-            delete temp;
         }
         size--;
         return true;
