@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
