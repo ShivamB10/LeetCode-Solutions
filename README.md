@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0860-design-circular-queue](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Tree
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
