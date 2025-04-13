@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 ## Monotonic Stack
 |  |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1962-single-threaded-cpu](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
