@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0413-arithmetic-slices](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## String Matching
 |  |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
