@@ -1,0 +1,40 @@
+class Solution {
+public:
+    bool checkValidString(string s) {
+        stack<int> openStack;
+        stack<int> starStack;
+
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] == '('){
+                openStack.push(i);
+            }
+            else if(s[i] == '*'){
+                starStack.push(i);
+            }
+            else if(s[i] == ')'){
+                if(!openStack.empty()){
+                    openStack.pop();
+                }
+                else if(!starStack.empty()){
+                    starStack.pop();
+                }
+                else{
+                    return false;
+                }
+            }
+
+        }
+
+        while(!openStack.empty()){
+            if(starStack.empty() || openStack.top() > starStack.top()){
+                return false;
+            }
+            openStack.pop();
+            starStack.pop();
+        }
+
+        return true;
+
+        
+    }
+};
