@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1962-single-threaded-cpu](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1962-single-threaded-cpu) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
