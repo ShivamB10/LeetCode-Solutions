@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
 ## Simulation
 |  |
