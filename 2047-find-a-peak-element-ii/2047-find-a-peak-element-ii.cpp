@@ -22,11 +22,11 @@ public:
                 return {max_row,mid};
             }
 
-            else if(left_row > mat[max_row][mid]){
+            else if(left_row > right_row && left_row > mat[max_row][mid]){
                 end = mid - 1;
             }
 
-            else {
+            else if(left_row < right_row && right_row > mat[max_row][mid]){
                 start = mid+1;
             }
         }
