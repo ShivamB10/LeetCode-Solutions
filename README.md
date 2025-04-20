@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1464-reduce-array-size-to-the-half) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1185-find-in-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
@@ -653,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0561-array-partition) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
