@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0413-arithmetic-slices](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
