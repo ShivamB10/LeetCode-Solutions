@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Tree
 |  |
 | ------- |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
 | ------- |
