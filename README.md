@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0690-employee-importance](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0690-employee-importance) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
