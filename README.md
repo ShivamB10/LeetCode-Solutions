@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0860-design-circular-queue](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Design
