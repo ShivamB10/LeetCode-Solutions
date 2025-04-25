@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0860-design-circular-queue](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
 | ------- |
