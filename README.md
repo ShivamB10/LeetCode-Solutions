@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0649-dota2-senate) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
