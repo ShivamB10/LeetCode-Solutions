@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [0983-validate-stack-sequences](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0933-increasing-order-search-tree](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0933-increasing-order-search-tree) |
+| [0983-validate-stack-sequences](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1582-design-browser-history](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShivamB10/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
